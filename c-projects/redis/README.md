@@ -10,6 +10,7 @@
 
 **Building:**
 > make
+
 > make install
 
 **Configuration:**
