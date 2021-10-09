@@ -1,0 +1,6 @@
+{
+	"smtp_server": "smtp.gmail.com:25",
+	"user": "",
+	"passwd": "",
+	"hostname": "smtp.gmail.com"
+}
